@@ -4,7 +4,7 @@ ga_measurement_id = ""
 
 [style]
 theme = "light"
-cover = "center"
+cover = "left"
 content = "left"
 
 [profile]
