@@ -1,0 +1,21 @@
+# docs: https://github.com/moulco/moul/tree/master/docs#example-moultoml
+base = "/"
+ga_measurement_id = ""
+
+[style]
+theme = "light"
+cover = "center"
+content = "left"
+
+[profile]
+name = "AWtnb"
+bio = "Editorial staff in publisher"
+
+[social]
+github = "awtnb"
+instagram = "awtnb_jp"
+
+[content]
+title = "Kobe trip"
+tags = ["Kobe", "Sunny", "September", "2023"]
+text = ""
